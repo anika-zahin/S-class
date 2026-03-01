@@ -227,4 +227,5 @@ if generate_btn or generate_all:
             
             # This logic will need to be refined to generate separate PDFs when you add the specific content tabs
             with col_results2:
+
                  st.info("The individual Cheat Sheet and Quiz tabs are currently a simulated view. This 'Bundle' includes all three sections.")
