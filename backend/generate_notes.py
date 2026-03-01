@@ -35,4 +35,5 @@ sample_ocr_text = "Photosynthesis. Plants use sunlight. Chlorophyll. Oxygen is r
 
 structured_notes = process_lecture_notes(sample_ocr_text)
 print("\n--- YOUR SMART NOTES ---")
+
 print(structured_notes)
