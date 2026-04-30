@@ -1,4 +1,5 @@
-##⚡ S-Class Study Tool
+#⚡S-Class Study Tool
+
 An AI-powered educational platform that transforms handwritten whiteboard sketches into structured academic resources. 
 By combining OCR (Optical Character Recognition) with Large Language Models, it generates comprehensive study notes, concise cheat sheets, and interactive practice quizzes in real-time.
 
