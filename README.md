@@ -1,9 +1,9 @@
-#⚡S-Class Study Tool
+# ⚡S-Class Study Tool
 
 An AI-powered educational platform that transforms handwritten whiteboard sketches into structured academic resources. 
 By combining OCR (Optical Character Recognition) with Large Language Models, it generates comprehensive study notes, concise cheat sheets, and interactive practice quizzes in real-time.
 
-##🚀 Features
+## 🚀 Features
 Smart Whiteboard: A digital canvas for sketching diagrams and writing notes with undo/redo capabilities.
 
 Instant AI Sync: Extracts text from your drawings using EasyOCR.
@@ -14,7 +14,7 @@ Interactive Quizzes: Automatically creates Q&A pairs based on your specific whit
 
 PDF Export: Downloads your entire study session into a professionally formatted PDF.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend
 React.js: UI Framework.
 
