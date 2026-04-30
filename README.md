@@ -1,7 +1,7 @@
 # ⚡S-Class Study Tool
 
-[!Watch Demo] (<img width="1916" height="1009" alt="Screenshot 2026-04-30 174121" src="https://github.com/user-attachments/assets/0b870244-bf73-42f9-b790-88c748728199" />)]
-(https://youtu.be/rWohov-1JAs?si=jCC-AvqAU-LwHYG5)
+Watch Demo : https://youtu.be/rWohov-1JAs?si=jCC-AvqAU-LwHYG5
+
 An AI-powered educational platform that transforms handwritten whiteboard sketches into structured academic resources. 
 By combining OCR (Optical Character Recognition) with Large Language Models, it generates comprehensive study notes, concise cheat sheets, and interactive practice quizzes in real-time.
 
